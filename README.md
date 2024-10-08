@@ -7,5 +7,5 @@ This repository contains projects and experiments for various machine learning t
 In this workspace, I conduct statistical analysis using Pandas, including:
 - Outlier detection
 - Measures of central tendency
-- Normal and log-normal distribution assessments
+- Normal and log-normal distribution
 - Z-score and modified z-score calculations
